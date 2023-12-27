@@ -1,4 +1,6 @@
-# Project Name
+# django-image-analysis-api
+
+Author: Abraham Bronstein https://github.com/abrahambrons/django_image_analysis_api
 
 ## Description
 

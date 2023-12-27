@@ -1,4 +1,5 @@
 import os
+#Author: Abraham Bronstein https://github.com/abrahambrons/django_image_analysis_api
 from PIL import Image, ImageDraw, ImageFont
 from django.test import TestCase
 from rest_framework.test import APIRequestFactory

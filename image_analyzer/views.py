@@ -1,3 +1,4 @@
+#Author: Abraham Bronstein https://github.com/abrahambrons/django_image_analysis_api
 import logging
 
 # Set up logging
